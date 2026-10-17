@@ -1,0 +1,74 @@
+[
+  {
+    "name": "/Preferences/max_angular_rate_rotations",
+    "type": "double",
+    "value": 0.2,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/max_speed_percentage",
+    "type": "double",
+    "value": 0.2,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/steer_kP",
+    "type": "double",
+    "value": 5.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/steer_kD",
+    "type": "double",
+    "value": 0.5,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_kP",
+    "type": "double",
+    "value": 0.1,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/fl_encoder_offset",
+    "type": "double",
+    "value": -0.24609375,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/fr_encoder_offset",
+    "type": "double",
+    "value": 0.204833984375,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/bl_encoder_offset",
+    "type": "double",
+    "value": -0.43798828125,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/br_encoder_offset",
+    "type": "double",
+    "value": 0.4873046875,
+    "properties": {
+      "persistent": true
+    }
+  }
+]
